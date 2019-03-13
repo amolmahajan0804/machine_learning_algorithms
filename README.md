@@ -1,2 +1,2 @@
 # machine_learning_algorithms
-Implementation of algorithms frequently used in data science.
+Implementation of algorithms frequently used in data science using Python.
