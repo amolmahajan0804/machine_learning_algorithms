@@ -1,0 +1,6 @@
+*.DS_Store
+*.ipynb_checkpoints
+k nearest neighbors
+logistic regression
+linear regression/linear_regression_detailed.ipynb
+linear regression/linear_regression_from_scratch_original.ipynb
